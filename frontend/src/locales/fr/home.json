@@ -5,7 +5,7 @@
   "no_title": "Sans titre",
   "progress_watched": "{{percent}}% vu",
   "progress_unknown": "Progression inconnue",
-  "time_remaining": "{{time}} restant",
+  "time_remaining": "{{time}} restantes",
   "time_remaining_unknown": "Temps restant inconnu",
   "ends_at": "Se termine à {{date}}",
   "ends_at_unknown": "Heure de fin inconnue",
